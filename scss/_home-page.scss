@@ -1,0 +1,16 @@
+header.page-header {
+  .header-logo {
+    img {
+      max-width: 300px;
+    }
+    ul.navbar-menu {
+      font-size: 20px;
+      display: flex;
+      list-style-type: none;
+
+      li {
+        margin: 1px 25px;
+      }
+    }
+  }
+}
