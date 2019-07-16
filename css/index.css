@@ -7,5 +7,7 @@ header.page-header .header-logo ul.navbar-menu {
   list-style-type: none; }
   header.page-header .header-logo ul.navbar-menu li {
     margin: 1px 25px; }
+    header.page-header .header-logo ul.navbar-menu li a {
+      color: black; }
 
 /*# sourceMappingURL=index.css.map */
