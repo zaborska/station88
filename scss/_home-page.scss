@@ -16,4 +16,19 @@ header.page-header {
       }
     }
   }
+  .search-wrapper {
+    text-align: center;
+    .search {
+      cursor: pointer;
+      form {
+        input {
+          width: 30%;
+        }
+        button {
+          margin-left: -28px;
+          background: blue;
+        }
+      }
+    }
+  }
 }

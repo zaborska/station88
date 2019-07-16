@@ -10,4 +10,14 @@ header.page-header .header-logo ul.navbar-menu {
     header.page-header .header-logo ul.navbar-menu li a {
       color: black; }
 
+header.page-header .search-wrapper {
+  text-align: center; }
+  header.page-header .search-wrapper .search {
+    cursor: pointer; }
+    header.page-header .search-wrapper .search form input {
+      width: 30%; }
+    header.page-header .search-wrapper .search form button {
+      margin-left: -28px;
+      background: blue; }
+
 /*# sourceMappingURL=index.css.map */
